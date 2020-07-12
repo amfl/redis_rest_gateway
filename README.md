@@ -1,5 +1,8 @@
 # Redis REST Gateway
 
+[![Docker Automated Build](https://img.shields.io/docker/cloud/automated/amfl/redis_rest_gateway)](https://hub.docker.com/r/amfl/redis_rest_gateway)
+[![Go Report Card](https://goreportcard.com/badge/github.com/amfl/redis_rest_gateway)](https://goreportcard.com/report/github.com/amfl/redis_rest_gateway)
+
 Webserver which passes POST data and headers to Redis.
 
 Originally made as a way to push Gitea events into Redis,
